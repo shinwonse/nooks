@@ -7,7 +7,7 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useTitle
 - [x] useClick
 - [x] useHover 
-- [ ] usePageLeave
+- [x] useBeforeLeave
 - [ ] useFadeIn
 - [ ] useFullScreen
 - [ ] useHover

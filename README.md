@@ -13,7 +13,7 @@ Collection of sexy React Hooks ready to install with NPM
 - [ ] useHover
 - [x] useNetwork
 - [ ] useNotification
-- [ ] useScroll
+- [x] useScroll
 - [x] usePreventLeave
 - [x] useConfirm
 - [ ] useAxios

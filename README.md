@@ -9,11 +9,11 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useHover 
 - [x] useBeforeLeave
 - [x] useFadeIn
-- [ ] useFullScreen
-- [ ] useHover
+- [x] useFullScreen
+- [x] useHover
 - [x] useNetwork
-- [ ] useNotification
+- [x] useNotification
 - [x] useScroll
 - [x] usePreventLeave
 - [x] useConfirm
-- [ ] useAxios
+- [x] useAxios

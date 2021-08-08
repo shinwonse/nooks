@@ -1,5 +1,5 @@
 {
-  "name": "nooks",
+  "name": "@nooks/use-title",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +34,22 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Collection of sexy React Hooks ready to install with NPM",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinwonse/nooks.git"
+  },
+  "keywords": [
+    "react",
+    "title",
+    "hooks"
+  ],
+  "author": "Wonse Shin <sinwonse@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinwonse/nooks/issues"
+  },
+  "homepage": "https://github.com/shinwonse/nooks#readme"
 }
